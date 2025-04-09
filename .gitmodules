@@ -1,0 +1,6 @@
+[submodule "AR100"]
+	path = AR100
+	url = https://github.com/manojm-dev/AR100.git
+[submodule "map_hopper"]
+	path = map_hopper
+	url = https://github.com/manojm-dev/map_hopper.git
